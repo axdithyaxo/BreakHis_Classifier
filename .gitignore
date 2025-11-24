@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights
+*.pth
+*.pt
+
+# Data
+data/
+*.png
+
+# Streamlit cache
+.streamlit/
+
+# macOS
+.DS_Store
